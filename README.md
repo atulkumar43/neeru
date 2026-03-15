@@ -18,16 +18,6 @@ Every time you send a prompt to Claude, ChatGPT, Gemini, or other AI tools:
 
 ---
 
-## Installation (Developer Mode)
-
-1. Open Chrome and go to `chrome://extensions/`
-2. Enable **Developer mode** (toggle in top-right corner)
-3. Click **"Load unpacked"**
-4. Select the `ai-footprint-extension` folder
-5. The Neeru icon (💧) will appear in your Chrome toolbar
-
----
-
 ## Supported platforms
 
 | Platform | URL |
@@ -82,7 +72,6 @@ India also faces **acute water stress** in many regions. Making AI's hidden wate
 
 - **No data leaves your browser.** All calculations are done locally.
 - No prompt text is ever stored or transmitted.
-- Session totals are stored locally in `chrome.storage.local`.
 
 ---
 
